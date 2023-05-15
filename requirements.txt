@@ -1,0 +1,3 @@
+PIP installable libraries are:
+the requests library: pip install requests
+matplotlib library: pip install matplotlib
